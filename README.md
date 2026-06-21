@@ -61,11 +61,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaehyun429&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyun429&layout=compact&theme=dark&hide_border=true)
+## 📄 Publications & Research
+- 🎙️ Interspeech 2026 제출 — Korean Radio Broadcast Auto-Structuring
+- 📋 KCC 2026 제출 — BUA QLoRA Fine-tuning
 
 </div>
